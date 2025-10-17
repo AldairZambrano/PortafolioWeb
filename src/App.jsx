@@ -37,7 +37,7 @@ const Contactos = () => {
             <a href="mailto:aldairzambrano12345@gmail.com">
               <button type="button">  
                 Contacto
-                <i className="bi bi-envelope-check-fill"></i>
+                <i className="bi bi-envelope-check-fill" style={{marginLeft:"5px"}}></i>
               </button>
             </a>
           </div>

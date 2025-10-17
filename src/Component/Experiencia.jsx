@@ -23,7 +23,13 @@ export default function Experiencia () {
       <div className="container text-center">
         <div className="row">
            {/* Desarrollo Web  */}
-           <Cardexperienced icon='bi bi-gear' titulo='Herramientas' parrafo='Soy un apasionado desarrollador de software con experiencia en una amplia gama de tecnologías web, incluyendo React.js, HTML, CSS, JavaScript y PHP, entre otras. Mi enfoque principal se centra en la construcción de interfaces de usuario modernas y dinámicas utilizando React.js y otras herramientas de desarrollo de front-end.' habilidad='HTML' habilidad2='CSS' habilidad3='JAVASCRIPT' habilidad1='REACT.JS'></Cardexperienced>
+           <Cardexperienced icon='bi bi-gear' titulo='Herramientas' 
+            parrafo='Trabajo principalmente con React.js y Vite para construir interfaces modernas, rápidas y dinámicas.Utilizo Tailwind CSS y Google Fonts para crear diseños atractivos, limpios y totalmente responsivos.Además, empleo Git y GitHub para el control de versiones y la gestión de proyectos de manera colaborativa.Actualmente, también estoy aprendiendo Python para ampliar mis conocimientos y fortalecer mis habilidades como desarrollador' 
+            habilidad='HTML/CSS' 
+            habilidad2='GIT/GITHUB' 
+            habilidad3='JAVASCRIPT/PYTHON' 
+            habilidad1='REACT.JS + VITE'
+            ></Cardexperienced>
           {/* Articulos */}
            <Cardexperienced icon='bi bi-hourglass-split' titulo='Pasatiempo' parrafo='Tengo una dedicación al deporte, un enfoque en la educación y una habilidad para la creación de aplicaciones web. Son intereses versátiles y muestran mi disposición para desarrollar habilidades tanto físicas como intelectuales.' habilidad='Estudiar' habilidad1='Crear' habilidad2='Jugar'></Cardexperienced>
          {/*  Estudiante */}

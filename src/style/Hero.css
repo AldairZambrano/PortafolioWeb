@@ -9,9 +9,12 @@
 }
 
 .hero-imagen-desarrollador {
-  width: 20%;
-  height: 250px;
-  margin: 20px;
+   width: 100%;
+  max-width: 150px; /* o el tamaño máximo que quieras */
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
 }
 
 .hero-principal h2 {

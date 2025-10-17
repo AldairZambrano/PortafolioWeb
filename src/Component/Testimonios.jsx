@@ -7,7 +7,7 @@ const CarruselActive = () => {
             <div className="carousel-item active">
               <div className="container">
                 <img className="testimonio-imagen rounded-circle" src={imagenes.Cliente1} alt='cliente 1' />
-                <p className="testimonio-texto">Tiene una capacidad para expresarte de manera clara y persuasiva es altamente valorada. Te comunicas de manera efectiva tanto verbalmente como por escrito, y tienes la habilidad de transmitir tus ideas de forma convincente. Tu capacidad para escuchar activamente también te ayuda a entender las necesidades de los demás y a responder adecuadamente.</p>
+                <p className="testimonio-texto">Tiene una capacidad para expresarte de manera clara y persuasiva es altamente valorada.</p>
                 <div className="testimonio-info">
                   <p className="cliente">Yeison Tapias </p>
                   <p className="cargo">Coordinador de poscosecha de banarica</p>
@@ -46,10 +46,7 @@ export default function Testimonios () {
           
             {/* testimonio 1 */}
             <CarruselActive>
-                
-            </CarruselActive>
-          
-     
+            </CarruselActive> 
           <button className="carousel-control-prev" type="button" data-bs-target="#testimonios-carrusel" data-bs-slide="prev">
             <span className="carousel-control-prev-icon" aria-hidden="true"></span>
             <span className="visually-hidden">Anterior</span>
