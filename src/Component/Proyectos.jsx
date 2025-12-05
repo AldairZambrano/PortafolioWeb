@@ -37,13 +37,13 @@ export default function Proyectos () {
                     <Proyect UrlImg={imagenes.calculadoraMezcla} alt='proyecto 2' nameProyect='Control de Cajas e Insumos' DireccionProyectRepo='https://github.com/AldairZambrano/Calculador_de_mezclas' DireccionProyectweb='https://calculadormezclas.netlify.app/'></Proyect>
                     <Proyect  UrlImg={imagenes.TIC} alt='proyecto 11' nameProyect='Tic tac toe' DireccionProyectRepo='https://github.com/AldairZambrano/tic-tac-toe' DireccionProyectweb='https://tic-tac-toei.netlify.app/'></Proyect>
                     <Proyect  UrlImg={imagenes.random} alt='proyecto 33' nameProyect='Dashboard' DireccionProyectRepo='https://github.com/AldairZambrano/Deshboard' DireccionProyectweb='https://dashboard-primary.netlify.app/'></Proyect>
-                      <Proyect  UrlImg={imagenes.Camara} alt='proyecto 10' nameProyect='Camara' DireccionProyectRepo='https://github.com/AldairZambrano/Camara' DireccionProyectweb='https://zippy-twilight-99a722.netlify.app/'></Proyect>
+                    <Proyect  UrlImg={imagenes.Clima} alt='proyecto 2' nameProyect='Aplicacion del tiempo' DireccionProyectRepo='https://github.com/AldairZambrano/clima' DireccionProyectweb='https://apptimeclimate.netlify.app/'></Proyect>
+                    <Proyect  UrlImg={imagenes.Camara} alt='proyecto 10' nameProyect='Camara' DireccionProyectRepo='https://github.com/AldairZambrano/Camara' DireccionProyectweb='https://zippy-twilight-99a722.netlify.app/'></Proyect>
                     <Proyect UrlImg={imagenes.tienda} alt='proyecto 7' nameProyect='Tienda fast food' DireccionProyectRepo='https://github.com/AldairZambrano/Tienda' DireccionProyectweb='https://tienda-fast-foot.netlify.app/'></Proyect>
                     <Proyect  UrlImg={imagenes.tiendaderopa} alt='proyecto 8' nameProyect='Tienda de Ropa' DireccionProyectRepo='https://github.com/AldairZambrano/tiendaderopa' DireccionProyectweb='https://aldairzambrano.github.io/tiendaderopa/'></Proyect>
                     <Proyect UrlImg={imagenes.admiImv} alt='proyecto 9' nameProyect='admi-imv' DireccionProyectRepo='https://github.com/AldairZambrano/admi-imv' DireccionProyectweb='https://admi-imv.netlify.app/'></Proyect>
                     <Proyect UrlImg={imagenes.markdown2} alt='proyecto 12' nameProyect='Markdown' DireccionProyectRepo='https://github.com/AldairZambrano/Markdown-previewer' DireccionProyectweb='https://markdown-aldair.netlify.app/'></Proyect>
                     <Proyect UrlImg={imagenes.caja} alt='proyecto 1' nameProyect='Caja de ritmo' DireccionProyectRepo='https://github.com/AldairZambrano/Drum-Machine' DireccionProyectweb='https://caja-ritmos.netlify.app/'></Proyect>
-                    <Proyect UrlImg={imagenes.alarma}alt='proyecto 4' nameProyect='alarma' DireccionProyectRepo='https://github.com/AldairZambrano/Build' DireccionProyectweb='https://alarma-ru.netlify.app/'></Proyect>
                     </div>
                 </div>
               <a href="https://github.com/AldairZambrano" target="_blank" rel="noopener noreferrer">

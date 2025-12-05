@@ -18,11 +18,11 @@ import admiImv from '../img/admi-imv.jpg'
 import camara from '../img/camara.jpg'
 import tic from '../img/tic.png'
 import random from '../img/Random.png'
-import alarma from '../img/alarma.png'
+import Clima from '../img/Clima.png'
 
 export default {
   'IconNav': iconoNav,
-  'alarma' : alarma,
+  'Clima' : Clima,
   'User' : User,
   'markdown2' : markdown2,
   'Monitor' : Monitor,
